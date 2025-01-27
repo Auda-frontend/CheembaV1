@@ -41,6 +41,7 @@ export default function LoginPage() {
           {/* Right Section - Login Form */}
           <div className="flex items-center justify-center">
             <div className="w-full max-w-md space-y-6">
+              
               <div className="space-y-4">
                 <h1 className="text-4xl font-manrope font-bold tracking-tight">Welcome back, Cheemba</h1>
                 <p className="font-spaceGrotesk">Welcome back! Please enter your details.</p>
